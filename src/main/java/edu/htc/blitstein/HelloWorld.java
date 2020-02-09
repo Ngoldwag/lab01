@@ -1,4 +1,4 @@
-package edu.bi.foo;
+package edu.htc.blitstein;
 
 public class HelloWorld {
     public static void main(String...args){
